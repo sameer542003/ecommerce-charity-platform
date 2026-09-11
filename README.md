@@ -46,7 +46,7 @@ common-cause/
 | | |
 |---|---|
 | **Backend** | Node.js, Express, MongoDB/Mongoose, JWT, Cloudinary, Twilio, Nodemailer |
-| **Frontend** | React 19, Vite, Tailwind CSS, React Router, Axios |
+| **Frontend** | React 19, Vite, React Router, Axios |
 
 ## 4. Getting started
 
